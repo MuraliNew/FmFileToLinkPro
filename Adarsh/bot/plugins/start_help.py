@@ -244,7 +244,7 @@ async def about_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/club_updates_97"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/ProleechgroupbyProffesor")],
-                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/HarshGodxpro")],
+                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER 💠", url="https://t.me/PROFE07XH")],
                     [InlineKeyboardButton("💌 FILMSERIES ARCHIVE 💌", url="https://t.me/+FrlqNr5EUeRmMjM1")]
                 ]
             ),
