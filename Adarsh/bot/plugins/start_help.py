@@ -225,7 +225,7 @@ async def about_handler(bot, message):
                 disable_web_page_preview=True)
             return
     await message.reply_photo(
-            photo="https://telegra.ph/file/dd9f512f20297ee827a9a.jpg",
+            photo="https://telegra.ph/file/0abad3d7c58a4d1ecd155.jpg",
             caption="""<b>sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜</b>
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
@@ -244,8 +244,8 @@ async def about_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/club_updates_97"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/ProleechgroupbyProffesor")],
-                    [InlineKeyboardButton("OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/HarshGodxpro")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@violencegaming7662")]
+                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/HarshGodxpro")],
+                    [InlineKeyboardButton("💌 FILMSERIES ARCHIVE 💌", url="https://t.me/+FrlqNr5EUeRmMjM1")]
                 ]
             ),
             
