@@ -61,8 +61,8 @@ async def start(b, m):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/club_updates_97"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/ProleechgroupbyProffesor")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/HarshGodxpro")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@violencegaming7662")]
+                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER 💠", url="https://t.me/PROFE07XH")],
+                    [InlineKeyboardButton("💌 FILMSERIES ARCHIVE 💌", url="https://t.me/+FrlqNr5EUeRmMjM1")]
                 ]
             ),
             
@@ -178,8 +178,8 @@ async def help_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/club_updates_97"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/ProleechgroupbyProffesor")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/HarshGodxpro")],
-                    [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@violencegaming7662")]
+                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER 💠", url="https://t.me/PROFE07XH")],
+                    [InlineKeyboardButton("💌 FILMSERIES ARCHIVE 💌", url="https://t.me/+FrlqNr5EUeRmMjM1")]
                 ]
             ),
             
@@ -236,7 +236,7 @@ async def about_handler(bot, message):
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/@violencegaming7662'>GAMING</a></b>
+┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://t.me/+FrlqNr5EUeRmMjM1'>FILES-CHANNEL</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
@@ -244,7 +244,7 @@ async def about_handler(bot, message):
         reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/club_updates_97"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/ProleechgroupbyProffesor")],
-                    [InlineKeyboardButton("OWNER", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/HarshGodxpro")],
+                    [InlineKeyboardButton("OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER", url="https://github.com/HarshGodxpro")],
                     [InlineKeyboardButton("💌 SUBSCRIBE 💌", url="https://youtube.com/@violencegaming7662")]
                 ]
             ),
